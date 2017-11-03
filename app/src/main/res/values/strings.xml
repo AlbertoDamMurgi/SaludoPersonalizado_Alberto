@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SaludoPersonalizado_Alberto</string>
+    <string name="introduce">Introduce un nombre!</string>
+</resources>
